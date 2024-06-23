@@ -1,4 +1,4 @@
-製作方法：
+製作epub方法：
 1. 下載HTML：
 * [光明天書](https://github.com/universe-truth/gmts-tw)
 * [光明宇宙知識](https://github.com/universe-truth/gmyzzs-tw)
